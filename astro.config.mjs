@@ -14,7 +14,7 @@ import cloudflare from "@astrojs/cloudflare";
 export default defineConfig({
   site: "https://jp-tosca.github.io",
   base: "mightbakelater",
-  trailingSlash: "ignore",
+  trailingSlash: "always",
   prefetch: {
     prefetchAll: true
   },
