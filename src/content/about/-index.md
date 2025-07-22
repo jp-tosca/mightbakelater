@@ -1,8 +1,10 @@
 ---
-title: Hey, I'm Jane Doe!
+title: Hi! My name is Tamy. (yes, that’s one M)
 description: this is meta description
-image: "@assets/profile/jane-doe.jpg"
+image: "@assets/profile/tamy.png"
 draft: false
 ---
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis illum nesciunt commodi vel nisi ut alias excepturi ipsum, totam, labore tempora, odit ex iste tempore sed. Fugit voluptatibus perspiciatis assumenda nulla ad nihil, omnis vel, doloremque sit quam autem optio maiores, illum eius facilis et quo consectetur provident dolor similique! Enim voluptatem dicta expedita veritatis repellat dolorum impedit, provident quasi at.
+I’ve been a hospitality professional for years — wearing many different hats over my career — and always in the front of house. But, truth be told, my heart has always been behind the scenes, in the kitchen. I spend most of my free time baking and cooking for friends and co-workers.  After all the encouragement and nagging from my family and friends — not to mention the newfound free time as a result of the pandemic — finally here I am, sharing my recipes and cooking/baking tips with others and entertaining from afar.
+
+Please check back often and of course, follow me on Instagram, @mightbakelater #mightbakelater #tamarellaskitchen
