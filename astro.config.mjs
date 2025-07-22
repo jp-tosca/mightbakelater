@@ -13,7 +13,7 @@ import cloudflare from "@astrojs/cloudflare";
 // https://astro.build/config
 export default defineConfig({
   site: "https://jp-tosca.github.io",
-  base: "mightbakelater",
+  base: "/mightbakelater",
   trailingSlash: "ignore",
   prefetch: {
     prefetchAll: true
