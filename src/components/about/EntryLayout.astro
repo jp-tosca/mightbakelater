@@ -32,8 +32,9 @@ const { Content } = await render(entry);
             )
           }
           <h2 set:html={markdownify(title)} class="h3 mb-6" />
+            <div class="text-lg mb-8 text-justify [&>p]:mb-6">
             <Content />
-        </div>
+            </div>  
       </div>
     </div>
   </section>
